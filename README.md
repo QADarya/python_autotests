@@ -23,7 +23,7 @@
 2. Используется библиотека Requests
 3. Параметризированные тесты с использованием декоратора
 
-![image](https://raw.githubusercontent.com/QADarya/python_autotests/refs/heads/main/Python_Pytest.jpg)
+![image](https://raw.githubusercontent.com/QADarya/python_autotests/refs/heads/main/Python_Pytest1.jpg)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
